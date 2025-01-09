@@ -1,11 +1,3 @@
-'''
-AP+DBMS Project Done by Team - 16
-Team Members : 
-1) Enaganti Karun Kumar                     ->~ CH.EN.U4CYS20016
-2) Narayana Datta Sai Manikanta             ->~ CH.EN.U4CYS20049
-3) Gowtham Pushkar Bhatraju                 ->~ CH.EN.U4CYS20022
-4) Pulakandam Venkata Siva Naga Hemanth     ->~ CH.EN.U4CYS20060
-'''
 import colorama
 from colorama import Fore,Back
 import mysql.connector as sql
