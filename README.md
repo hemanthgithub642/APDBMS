@@ -35,7 +35,7 @@ This project is a **Banking System** written in **C++**, using the **MySQL C API
 
 ### 1. Clone the Repository
 ```
-git clone <repository-url>
+git clone https://github.com/hemanthgithub642/APDBMS.git
 ```
 
 ### 2. Set Up MySQL Connector
